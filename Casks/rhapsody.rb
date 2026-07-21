@@ -1,6 +1,6 @@
 cask "rhapsody" do
-  version "0.2.0"
-  sha256 "02e4ed1cb9089500830174661feedf01fdb193b8f0097280adb320fc823b77af"
+  version "0.2.1"
+  sha256 "b051969f8f5cce0a753cd15b3cfe01e42be7c190d0099f3ea73b3962fc643ba6"
 
   url "https://github.com/makewhatis/rhapsody/releases/download/v#{version}/Rhapsody.dmg"
   name "Rhapsody"
