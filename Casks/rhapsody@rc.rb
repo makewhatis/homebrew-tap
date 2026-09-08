@@ -9,7 +9,7 @@ cask "rhapsody@rc" do
 
   auto_updates true
   conflicts_with cask: "rhapsody"
-  depends_on macos: ">= :catalina"
+  depends_on macos: :big_sur
 
   app "Rhapsody.app"
 
